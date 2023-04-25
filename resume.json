@@ -1,0 +1,14 @@
+{
+  "basics": {
+    "name": "John Doe",
+    "label": "Programmer",
+    "email": "john@gmail.com",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      }
+    ]
+  }
+}
