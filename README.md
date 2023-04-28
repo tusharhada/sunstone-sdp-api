@@ -18,7 +18,14 @@ Then run the following command in your directory
 ```
 cd directory-name
 npm install
-npm run start
+npm run start 
+```
+
+For Developer Environment 
+```
+cd directory-name
+npm install
+npm run dev 
 ```
 
 Create your own .env file with CONNECTION_URL & PORT
